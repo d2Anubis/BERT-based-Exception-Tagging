@@ -1,4 +1,5 @@
 # [EY GDS Hackpions 2.0](https://www.hackerearth.com/challenges/hackathon/hackpions-2-ey-gds-hackathon/)
+![GitHub Logo](/Architecture.png)
 
 This repository contains the solution to the theme : NLP-based tagging solution
 
