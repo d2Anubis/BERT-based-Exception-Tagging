@@ -1,7 +1,9 @@
 # [EY GDS Hackpions 2.0](https://www.hackerearth.com/challenges/hackathon/hackpions-2-ey-gds-hackathon/)
-![GitHub Logo](/Architecture.png)
 
 This repository contains the solution to the theme : NLP-based tagging solution
+
+Architecture: 
+![GitHub Logo](/Architecture.png)
 
 We have build an AI operations model which will autolabel the exceptions and provide the solution without any user intervention. The solution can be divided into two parts:
 
